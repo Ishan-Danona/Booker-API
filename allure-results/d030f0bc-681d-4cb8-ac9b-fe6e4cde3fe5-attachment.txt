@@ -1,0 +1,9 @@
+{
+  firstname: 'Myrtle',
+  lastname: 'Doyle',
+  totalprice: 9703,
+  depositpaid: true,
+  bookingdates: { checkin: '2024-03-12', checkout: '2024-03-17' },
+  additionalneeds: 'Breakfast'
+}
+2024-03-07 12:22:44:2244 info: Partially Updated Existing Booking with booking id 980

@@ -1,0 +1,27 @@
+{
+  "name": "playwright-api-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "specs": "npx playwright test",
+    "nyc": "npx nyc --reporter=lcov --reporter=text-lcov playwright test",
+    "ENV-spec": " cross-env username='admin' password='password123' npx playwright test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.42.0",
+    "@types/luxon": "^3.4.2",
+    "@types/node": "^20.11.22",
+    "allure-commandline": "^2.27.0",
+    "allure-playwright": "^2.13.0"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "luxon": "^3.4.4",
+    "nyc": "^15.1.0",
+    "winston": "^3.12.0"
+  }
+}

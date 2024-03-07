@@ -1,0 +1,82 @@
+[
+  {
+    "suiteName": "POST",
+    "testCase": "Post-200",
+    "httpMethod": "Post",
+    "endpoint": "booking",
+    "statusCode": 200,
+    "contentType": "application/json; charset=utf-8"
+  },
+  {
+    "suiteName": "GET-ALL-IDS",
+    "testCase": "GetAllIds-200",
+    "httpMethod": "GetAllIds",
+    "endpoint": "booking",
+    "statusCode": 200,
+    "contentType": "application/json; charset=utf-8"
+  },
+  {
+    "suiteName": "GET-BY-NAMES",
+    "testCase": "GetByNames-200",
+    "httpMethod": "GetByNames",
+    "endpoint": "booking",
+    "statusCode": 200,
+    "contentType": "application/json; charset=utf-8"
+  },
+  {
+    "suiteName": "GET-BY-DATES",
+    "testCase": "GetByDates-200",
+    "httpMethod": "GetByDates",
+    "endpoint": "booking",
+    "statusCode": 200,
+    "contentType": "application/json; charset=utf-8"
+  },
+  {
+    "suiteName": "GET-BY-ID",
+    "testCase": "GetById-200",
+    "httpMethod": "GetById",
+    "endpoint": "booking/",
+    "statusCode": 200,
+    "contentType": "application/json; charset=utf-8"
+  },
+  {
+    "suiteName": "AUTH",
+    "testCase": "Auth-200",
+    "httpMethod": "Auth",
+    "endpoint": "auth",
+    "authUsername": "admin",
+    "authPassword": "password123",
+    "statusCode": 200,
+    "contentType": "application/json; charset=utf-8"
+  },
+  {
+    "suiteName": "PUT",
+    "testCase": "Put-200",
+    "httpMethod": "Put",
+    "endpoint": "booking/",
+    "statusCode": 200,
+    "contentType": "application/json; charset=utf-8"
+  },
+  {
+    "suiteName": "PATCH",
+    "testCase": "Patch-200",
+    "httpMethod": "Patch",
+    "endpoint": "booking/",
+    "statusCode": 200,
+    "contentType": "application/json; charset=utf-8"
+  },
+  {
+    "suiteName": "DELETE",
+    "testCase": "Delete-200",
+    "httpMethod": "Delete",
+    "endpoint": "booking/",
+    "statusCode": 201
+  },
+  {
+    "suiteName": "VALIDATE-DELETE",
+    "testCase": "validateDelete-200",
+    "httpMethod": "validateDelete",
+    "endpoint": "booking/",
+    "statusCode": 404
+  }
+]

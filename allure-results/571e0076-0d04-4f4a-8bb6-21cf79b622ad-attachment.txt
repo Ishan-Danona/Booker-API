@@ -1,0 +1,4 @@
+2024-03-07 12:18:31:1831 error: Error in Updating Existing Booking Error: expect(received).toBe(expected) // Object.is equality
+
+Expected: 200
+Received: 403

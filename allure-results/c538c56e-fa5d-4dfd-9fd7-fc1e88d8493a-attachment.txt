@@ -1,0 +1,1 @@
+2024-03-07 12:34:03:343 info: Generated Token using username: admin and password: password123

@@ -1,0 +1,4 @@
+2024-03-07 12:20:16:2016 error: Error in Deleting Existing Booking Error: expect(received).toBe(expected) // Object.is equality
+
+Expected: 201
+Received: 403

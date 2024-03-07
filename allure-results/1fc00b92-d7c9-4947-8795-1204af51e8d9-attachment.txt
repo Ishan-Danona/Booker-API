@@ -1,0 +1,9 @@
+{
+  firstname: 'Leann',
+  lastname: 'Casper',
+  totalprice: 9179,
+  depositpaid: true,
+  bookingdates: { checkin: '2024-03-12', checkout: '2024-03-17' },
+  additionalneeds: 'Breakfast'
+}
+2024-03-07 12:23:01:231 info: Updated Existing Booking with booking id 1197

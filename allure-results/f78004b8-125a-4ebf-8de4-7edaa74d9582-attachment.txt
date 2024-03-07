@@ -1,0 +1,4 @@
+2024-03-07 12:20:17:2017 error: Error in Validating Deleted Booking Error: expect(received).toBe(expected) // Object.is equality
+
+Expected: 404
+Received: 200

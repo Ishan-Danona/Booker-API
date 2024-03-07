@@ -1,0 +1,3 @@
+{ token: '939b9b2885e11d9' }
+2024-03-07 12:24:40:2440 info: Generated Token using username: admin and password: password123
+939b9b2885e11d9

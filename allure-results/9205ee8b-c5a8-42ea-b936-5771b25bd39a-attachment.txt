@@ -1,0 +1,1 @@
+2024-03-07 12:23:41:2341 info: New Booking Created with response body [object Object]
